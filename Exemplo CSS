@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Exemplo CSS</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+
+	<h1>Renato Russo</h1>
+	<div>
+		<a href="#">Ouça as Musicas</a>
+	</div>
+	<hr>
+	<p>
+		<span class="musica">Eduardo e Mônica</span> não eram nada parecidos..
+		Ela era de leão e ele tinha dezesseis			
+	</p>
+	<form>
+		<input type="text" name="nome">
+		<input type="text" name="sobrenome">
+	</form>
+
+</body>
+</html>
